@@ -1,7 +1,7 @@
 # BBSEA 👴👍👶🏻
 Unofficial implementation of [BBSEA: An Exploration of Brain-Body Synchronization for Embodied Agents](https://arxiv.org/abs/2402.08212).
 
-![BBSEA Overview](./imgs/BBSEA_Overview.png)
+![BBSEA Overview](./.imgs/BBSEA_Overview.png)
 
 ## Motivation of This Repo
 Here is the original repo for the [official BBSEA implementation](https://github.com/yangsizhe/bbsea/tree/main). The official implementation of BBSEA is based on the codebase of [Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition](https://github.com/real-stanford/scalingup), which adopts the simulation environment of [Mujoco](https://mujoco.org/).
